@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeJestExample'
+
+include ':app'
